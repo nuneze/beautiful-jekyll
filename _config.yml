@@ -45,18 +45,18 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Edrick Nunez
   email: "edrick.a.nunez@gmail.com"
-  facebook: Edrick Nunez  # eg. daattali
-  github: nuneze    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
+  facebook: Edrick Nunez # eg. daattali
+  github: nuneze # eg. daattali
+  twitter: yourname # eg. daattali
+  reddit: yourname # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: preetyraheem  # eg. daattali
-  instagram: @edricknunez # eg. daattali
+  instagram: edricknunez # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: edrick.a.nunez   # eg. daattali
+  spotify: edrick.a.nunez # eg. daattali
   telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
